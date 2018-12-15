@@ -230,5 +230,15 @@ input[type=submit] {
   }
   nav {
     float: left;
+    width: 100%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+  }
+  #logo {
+    width: 100%;
+  }
+  .auth-image {
+    float: none;
   }
 }
